@@ -2,7 +2,7 @@
 ## Youtube Popular Chart Analysis
   - 작성자 : 박은정
   - 작성날짜 : 2021/10/21
-  - GITHUB : https://github.com/eunjeongpak/project
+  - GITHUB : https://github.com/eunjeongpak/youtube_analysis_project
   - LICENSE: GNU General Public License v3.0
    ![image](https://user-images.githubusercontent.com/76864400/138218131-603e665c-10a1-4a2e-8c59-d39687fd1596.png)
 
