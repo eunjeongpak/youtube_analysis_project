@@ -1,5 +1,4 @@
-# project 기획
-## Youtube Popular Chart Analysis
+# Youtube Popular Chart Analysis
   - 작성자 : 박은정
   - 작성날짜 : 2021/10/21
   - GITHUB : https://github.com/eunjeongpak/youtube_analysis_project
